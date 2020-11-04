@@ -1,0 +1,39 @@
+$('.carousel').carousel({
+  interval: 1800000;
+});
+
+.carousel('pause');
+
+$('.carousel').carousel('pause');
+
+
+.carousel({
+  interval: 1800000;
+});
+
+$('.carousel').carousel-item({
+  interval: 1800000;
+});
+
+.carousel-item({
+  interval: 1800000;
+});
+
+#('carouselExampleControls').on('slide.bs.carousel', function () {
+  interval: 1800000;
+})
+
+
+#('carousel-control-next').on(function () {
+  .carousel('pause');
+})
+
+
+#('carousel-item').on(function () {
+  .carousel('pause');
+})
+
+video.on(funcion(){
+	.carousel('pause');
+	});
+
